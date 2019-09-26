@@ -1,2 +1,5 @@
 *.pbf
 *.cgi
+*.cgi-win
+*.exe
+aprs
